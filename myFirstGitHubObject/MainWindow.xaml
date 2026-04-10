@@ -8,6 +8,6 @@
         
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label Content="这是分支12313144"/>
+        <Label Content="分支1"/>
     </Grid>
 </Window>
